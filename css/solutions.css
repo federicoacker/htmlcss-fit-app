@@ -23,6 +23,9 @@
 }
 
 /*Modifiche hover sezione Stats */
+.stats-grid{
+    transition: translate 0.3s ease, box-shadow 0.3s ease;
+}
 .stats-grid:hover {
   translate: 0 -5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
@@ -98,4 +101,14 @@
     top:0;
     right:0;
     translate: -50% -15%;
+}
+
+/*Modifiche alla barra di navigazione */
+.nav-item:hover{
+    background: #34495E;
+    color: #3C63D9;
+}
+.nav-item:first-child{
+    background: #34495E;
+    color: #3C63D9;
 }
