@@ -15,11 +15,11 @@ Quando si passa il mouse sopra una qualsiasi carta statistiche, deve sollevarsi 
 
 Aggiungere un bordo arancione a sinistra (5px) e Cambiare lo sfondo in un giallo molto chiaro al secondo workout plan (Forza e Resistenza)
 
-5. 🟢 Bordi verdi per primo e ultimo esercizio
+5. 🟢 Bordi verdi per primo e ultimo esercizio &check;
 
 Il primo e ultimo esercizio nella lista devono avere il bordo sinistro verde e sfondo verde molto chiaro
 
-6. ⚡ Icona fulmine negli esercizi pari
+6. ⚡ Icona fulmine negli esercizi pari &check;
 
 Aggiungere l'emoji "⚡" all'inizio del nome degli esercizi in posizione pari (2° e 4°)
 

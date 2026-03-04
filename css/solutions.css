@@ -37,3 +37,31 @@
     border-left: 5px solid #f39c12;
     background: #FFF8BA;
 }
+
+/* Modifiche agli esercizi di oggi */
+.exercise-item{
+    position:relative;
+}
+
+.exercise-item:first-child{
+    background: #F0FFF4;
+    border-left:4px solid #2FCC71;
+}
+
+.exercise-item:last-child{
+    padding-top:30px;
+    background: #F0FFF4;
+    border-left:4px solid #2FCC71;
+}
+
+.exercise-item:nth-child(2){
+    padding-top:30px;
+}
+
+.exercise-item:nth-child(even) .exercise-name::before{
+    content:"⚡";
+    position:absolute;
+    top: 5px;
+    left: 5px;
+    translate: 50% 0;
+}
