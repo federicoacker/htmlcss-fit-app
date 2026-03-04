@@ -1,13 +1,13 @@
 ### RICHIESTE DA COMPLETARE:
-1. 🔥 Icona fuoco nella prima stat card
+1. 🔥 Icona fuoco nella prima stat card &check;
 
 Aggiungere l'emoji "🔥" sopra il numero nella prima carta delle statistiche (quella delle calorie)
 
-2. 🌟 Evidenziare la terza stat card
+2. 🌟 Evidenziare la terza stat card &check;
 
 Cambiare lo sfondo della terza carta statistiche (minuti di allenamento) con un gradiente blu-viola (non è necessario che sia identica allo screenshot di soluzione) e testo bianco
 
-3. ✨ Effetto hover sulle stat cards
+3. ✨ Effetto hover sulle stat cards &check;
 
 Quando si passa il mouse sopra una qualsiasi carta statistiche, deve sollevarsi di 5px e aumentare l'ombra
 

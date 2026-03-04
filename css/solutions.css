@@ -1,0 +1,33 @@
+
+/* Modifiche per la sezione Stats */
+
+.stats-grid:first-child .stat-number{
+    position:relative;
+    padding-top:50px;
+}
+.stats-grid:first-child .stat-number::before{
+    content:"🔥";
+    font-size:30px;
+    display:block;
+    position:absolute;
+    top:0;
+    left:50%;
+    translate: -50% 0;
+}
+
+.stats-grid:last-child{
+    background:linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    
+}
+.stats-grid:last-child .stat-number{
+    color:white;
+}
+.stats-grid:last-child .stat-label{
+    color:white;
+}
+
+/*Modifiche hover sezione Stats */
+.stats-grid:hover{
+    translate:0 -5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
