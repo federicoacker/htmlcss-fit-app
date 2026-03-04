@@ -37,12 +37,12 @@ Cambiare anche il colore di sfondo e Aggiungere un'ombra blu
 
 Mostra "65%" in bianco dentro la barra di progresso, allineato a destra
 
-11-12. 🧭 Migliorie alla navigazione
+11-12. 🧭 Migliorie alla navigazione &check;
 
 Aggiungere effetto hover sui link di navigazione (sfondo più scuro e testo blu)
 Il primo link della navigazione deve apparire sempre "attivo" (come se fosse la pagina corrente)
 
-13. 💭 Virgolette alla citazione
+13. 💭 Virgolette alla citazione &check;
 
 Aggiungere virgolette decorative (") sopra a sinistra e sotto a destra della citazione, con opacità ridotta.
 

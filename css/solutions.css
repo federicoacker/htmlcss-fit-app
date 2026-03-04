@@ -112,3 +112,26 @@
     background: #34495E;
     color: #3C63D9;
 }
+
+/*Virgolette Decorative alla Citazione */
+.quote-box{
+    position:relative;
+}
+.quote-box p::before{
+    content:"\201C";
+    font-size: 50px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    translate: 50% 0;
+    opacity: 0.5;
+}
+.quote-box p::after{
+    content:"\201D";
+    font-size: 50px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    translate: -50% 0;
+    opacity: 0.5;
+}
