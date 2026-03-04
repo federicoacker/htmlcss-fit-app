@@ -85,3 +85,17 @@
     background:linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     box-shadow: 0 0 10px rgba(0, 0, 155, 0.5)
 }
+
+/* Modifiche alla barra di progresso */
+.progress-bar{
+    position:relative;
+}
+.progress-fill::after{
+    content:"65%";
+    color:white;
+    position:absolute;
+    font-size:10px;
+    top:0;
+    right:0;
+    translate: -50% -15%;
+}
