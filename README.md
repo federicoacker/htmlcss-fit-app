@@ -23,7 +23,7 @@ Il primo e ultimo esercizio nella lista devono avere il bordo sinistro verde e s
 
 Aggiungere l'emoji "⚡" all'inizio del nome degli esercizi in posizione pari (2° e 4°)
 
-7-8. 🎯 Focus sui campi input
+7-8. 🎯 Focus sui campi input &check;
 
 Quando un campo input o select riceve il focus, deve avere bordo blu e ombra blu
 Aggiungere una transizione fluida per l'effetto
