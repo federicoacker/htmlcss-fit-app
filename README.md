@@ -11,7 +11,7 @@ Cambiare lo sfondo della terza carta statistiche (minuti di allenamento) con un 
 
 Quando si passa il mouse sopra una qualsiasi carta statistiche, deve sollevarsi di 5px e aumentare l'ombra
 
-4. 📌 Evidenziare il secondo piano allenamento
+4. 📌 Evidenziare il secondo piano allenamento &check;
 
 Aggiungere un bordo arancione a sinistra (5px) e Cambiare lo sfondo in un giallo molto chiaro al secondo workout plan (Forza e Resistenza)
 
