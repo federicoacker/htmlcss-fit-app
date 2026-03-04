@@ -28,7 +28,7 @@ Aggiungere l'emoji "⚡" all'inizio del nome degli esercizi in posizione pari (2
 Quando un campo input o select riceve il focus, deve avere bordo blu e ombra blu
 Aggiungere una transizione fluida per l'effetto
 
-9. 🔘 Miglioramenti al button
+9. 🔘 Miglioramenti al button &check;
 
 Il button "Salva Obiettivi" deve sollevarsi di 2px quando ci passi sopra il mouse
 Cambiare anche il colore di sfondo e Aggiungere un'ombra blu

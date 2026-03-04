@@ -75,3 +75,13 @@
 .goal-input-group select {
   transition: border 0.5s ease, box-shadow 0.2s ease;
 }
+
+/* Modifiche al pulsante salva */
+.save-btn {
+    transition: translate 0.3s ease, box-shadow 0.3s ease;
+}
+.save-btn:hover{
+    translate: 0 -2px;
+    background:linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    box-shadow: 0 0 10px rgba(0, 0, 155, 0.5)
+}
