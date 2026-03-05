@@ -80,12 +80,26 @@
 }
 
 /* Modifiche al pulsante salva */
+
+@property --gradient-start{
+  syntax:'<color>';
+  initial-value: #667eea;
+  inherits: false;
+}
+@property --gradient-end{
+  syntax:'<color>';
+  initial-value: #667eea;
+  inherits: false;
+}
 .save-btn {
-    transition: translate 0.3s ease, box-shadow 0.3s ease;
+    transition: translate 0.3s ease, box-shadow 0.3s ease, 
+    --gradient-start 2s ease, --gradient-end 2s ease;
+    background:linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%);
 }
 .save-btn:hover{
     translate: 0 -2px;
-    background:linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    --gradient-start: #667eea;
+    --gradient-end: #764ba2;
     box-shadow: 0 0 10px rgba(0, 0, 155, 0.5)
 }
 
