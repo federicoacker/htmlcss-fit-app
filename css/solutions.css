@@ -82,18 +82,18 @@
 /* Modifiche al pulsante salva */
 
 @property --gradient-start{
-  syntax:'<color>';
+  syntax:"<color>";
   initial-value: #667eea;
   inherits: false;
 }
 @property --gradient-end{
-  syntax:'<color>';
+  syntax:"<color>";
   initial-value: #667eea;
   inherits: false;
 }
 .save-btn {
     transition: translate 0.3s ease, box-shadow 0.3s ease, 
-    --gradient-start 2s ease, --gradient-end 2s ease;
+    --gradient-start 3s ease, --gradient-end 3s ease;
     background:linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%);
 }
 .save-btn:hover{
