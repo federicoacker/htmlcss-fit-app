@@ -98,7 +98,6 @@
 }
 .save-btn:hover{
     translate: 0 -2px;
-    --gradient-start: #667eea;
     --gradient-end: #764ba2;
     box-shadow: 0 0 10px rgba(0, 0, 155, 0.5)
 }
@@ -146,6 +145,6 @@
     position: absolute;
     bottom: 0;
     right: 0;
-    translate: -50% 0;
+    translate: -75% ;
     opacity: 0.5;
 }
